@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/cliff25433/bis557.svg?branch=master](https://travis-ci.org/cliff25433/bis557)
+[![Build Status](https://travis-ci.org/cliff25433/bis557.svg?branch=master])(https://travis-ci.org/cliff25433/bis557)
 
 BIS557
 ===
